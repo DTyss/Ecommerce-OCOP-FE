@@ -1,0 +1,60 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "success": "Success",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "create": "Create",
+        "search": "Search",
+        "filter": "Filter",
+        "clear": "Clear filters",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit",
+        "reset": "Reset",
+        "yes": "Yes",
+        "no": "No",
+        "all": "All",
+        "none": "None",
+        "actions": "Actions",
+        "status": "Status",
+        "date": "Date",
+        "time": "Time",
+        "details": "Details",
+        "view": "View",
+        "close": "Close",
+        "export": "Export",
+        "import": "Import",
+        "download": "Download",
+        "upload": "Upload",
+        "pleaseTryAgain": "Please try again"
+    },
+    "validation": {
+        "required": "This field is required",
+        "email": "Invalid email address",
+        "minLength": "Minimum {{min}} characters",
+        "maxLength": "Maximum {{max}} characters",
+        "passwordMismatch": "Passwords do not match",
+        "invalidFormat": "Invalid format"
+    },
+    "settings": {
+        "language": "Language",
+        "theme": "Theme",
+        "darkMode": "Dark Mode",
+        "lightMode": "Light Mode"
+    },
+    "errors": {
+        "notFound": "Page not found",
+        "serverError": "Server error",
+        "unauthorized": "Unauthorized access",
+        "forbidden": "Access denied",
+        "networkError": "Network connection error",
+        "timeout": "Request timeout",
+        "unknown": "An unknown error occurred"
+    }
+}

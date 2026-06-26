@@ -1,0 +1,870 @@
+{
+  "topbar": {
+    "welcome": "Welcome to OCOP Vietnam",
+    "support": "Support",
+    "sellerCenter": "Seller Center",
+    "downloadApp": "Download App",
+    "connect": "Connect"
+  },
+  "delivery": {
+    "label": "Deliver to",
+    "fast": "Fast delivery"
+  },
+  "header": {
+    "categories": "Categories",
+    "searchButton": "Search",
+    "login": "Sign in",
+    "account": "Account",
+    "wishlist": "Wishlist",
+    "cart": "Cart",
+    "openMenu": "Open menu"
+  },
+  "search": {
+    "placeholder": "Search OCOP products, regional specialties...",
+    "byImage": "Search by image",
+    "title": "Search results",
+    "allProducts": "All products",
+    "resultCount": "{{count}} matching products",
+    "keywordResult": "Results for \"{{keyword}}\"",
+    "empty": "No products found",
+    "emptyDesc": "Try another keyword or remove some filters",
+    "resetFilters": "Clear filters",
+    "suggestions": "Product suggestions",
+    "viewAll": "View all results for “{{keyword}}”",
+    "noSuggestions": "No matching products",
+    "loadingSuggestions": "Searching products...",
+    "clear": "Clear search"
+  },
+  "filter": {
+    "title": "Filters",
+    "open": "Open filters",
+    "keyword": "Keyword",
+    "category": "Category",
+    "allProducts": "All products",
+    "region": "Region",
+    "regionPlaceholder": "Choose region",
+    "ocopStar": "OCOP stars",
+    "priceRange": "Price range",
+    "minPrice": "Min price",
+    "minPriceShort": "From",
+    "maxPrice": "Max price",
+    "maxPriceShort": "To",
+    "rating": "Rating",
+    "ratingFrom": "From {{count}} stars",
+    "all": "All",
+    "reset": "Reset",
+    "clearAll": "Clear all",
+    "apply": "Apply"
+  },
+  "sort": {
+    "label": "Sort",
+    "popular": "Popular",
+    "priceAsc": "Price low to high",
+    "priceDesc": "Price high to low",
+    "ratingDesc": "Highest rated",
+    "newest": "Newest"
+  },
+  "category": {
+    "title": "Category",
+    "allTitle": "All categories",
+    "allDesc": "Explore thousands of quality OCOP products from every region of Vietnam.",
+    "featuredTitle": "Featured categories",
+    "trust": {
+      "authentic": "Genuine OCOP products",
+      "shipping": "Nationwide shipping",
+      "return": "7-day returns",
+      "payment": "Secure payment"
+    },
+    "promo": {
+      "title": "Exclusive offer for you!",
+      "desc": "10% off your first order",
+      "cta": "Get code now"
+    },
+    "heroStats": {
+      "products": "Products",
+      "sellers": "Sellers",
+      "provinces": "Provinces"
+    },
+    "viewProducts": "View products",
+    "productCount": "{{count}} products",
+    "notFound": "Category not found",
+    "notFoundDesc": "This category does not exist or is no longer visible"
+  },
+  "pagination": {
+    "navigation": "Product pagination",
+    "previous": "Previous page",
+    "next": "Next page",
+    "page": "Page {{page}}",
+    "pageSizeLabel": "Show",
+    "perPage": "/ page"
+  },
+  "region": {
+    "title": "OCOP specialties from all regions of Vietnam",
+    "subtitle": "Discover specialties from the North, Central and South",
+    "viewAll": "View all",
+    "exploreAll": "Explore every region",
+    "next": "View next region",
+    "pagination": "Choose featured region",
+    "page": "Region {{page}}",
+    "productSuffix": "products"
+  },
+  "trust": {
+    "commitment": { "title": "OCOP Commitment", "desc": "Genuine products" },
+    "shipping": {
+      "title": "Nationwide shipping",
+      "desc": "Fast and convenient"
+    },
+    "return": { "title": "Easy returns", "desc": "Within 7 days" },
+    "payment": { "title": "Secure payment", "desc": "Fully protected" },
+    "support": { "title": "24/7 Support", "desc": "Dedicated service" }
+  },
+  "section": {
+    "bestSeller": "Best sellers",
+    "newProduct": "New products",
+    "viewAll": "View all",
+    "sortBy": "Sort by",
+    "sortPopular": "Popular",
+    "gridView": "Grid view",
+    "listView": "List view",
+    "emptyProducts": "No matching products yet"
+  },
+  "product": {
+    "ocopStar": "OCOP {{star}} stars",
+    "addToCart": "Add to cart",
+    "sold": "sold",
+    "new": "NEW",
+    "hot": "HOT",
+    "addWishlist": "Add to wishlist",
+    "removeWishlist": "Remove from wishlist"
+  },
+  "productListing": {
+    "title": "All products",
+    "resultCount": "{{count}} products"
+  },
+  "promo": {
+    "ocop5": {
+      "title": "OCOP 5 stars",
+      "desc": "International quality",
+      "cta": "Explore now"
+    },
+    "daily": {
+      "title": "Daily deals",
+      "desc": "Up to 50% off",
+      "cta": "Buy now"
+    },
+    "freeship": {
+      "title": "NATIONWIDE FREESHIP",
+      "desc": "Orders from 299K",
+      "cta": "Free shipping"
+    }
+  },
+  "topShop": {
+    "title": "Trusted shops",
+    "viewAll": "View all",
+    "viewShop": "View shop",
+    "sold": "{{count}} sold"
+  },
+  "shop": {
+    "title": "Shop",
+    "allTitle": "All shops",
+    "allDesc": "Discover trusted OCOP shops nationwide",
+    "rating": "Rating",
+    "productsShort": "Products",
+    "productCount": "{{count}} products",
+    "soldCount": "{{count}} sold",
+    "followers": "Followers",
+    "followerCount": "{{count}} followers",
+    "responseRate": "Response",
+    "joinedDate": "Joined",
+    "follow": "Follow",
+    "following": "Following",
+    "addFavorite": "Add shop to favorites",
+    "pagination": "Shop pagination",
+    "empty": "No shops found",
+    "emptyDesc": "Try another keyword, province or shop category",
+    "stats": {
+      "trustedShops": "Trusted shops",
+      "products": "Products",
+      "positiveResponse": "Positive response",
+      "provinces": "Provinces"
+    },
+    "filter": {
+      "keyword": "Shop keyword",
+      "searchPlaceholder": "Search shops by name, location...",
+      "region": "Province / City",
+      "category": "Specialty category",
+      "sort": "Sort",
+      "reset": "Clear filters"
+    },
+    "sort": {
+      "popular": "Sort: Popular",
+      "products": "Sort: Most products",
+      "rating": "Sort: Highest rated",
+      "response": "Sort: Best response"
+    },
+    "badge": {
+      "featured": "Featured",
+      "favorite": "Favorite"
+    },
+    "detail": {
+      "trusted": "Trusted shop",
+      "message": "Message",
+      "positiveResponse": "Positive response",
+      "shopRating": "Shop rating",
+      "joinedFrom": "Joined from",
+      "tabs": {
+        "products": "Products",
+        "about": "About",
+        "reviews": "Reviews",
+        "faq": "FAQ"
+      },
+      "featuredProducts": "Featured products",
+      "shopInfo": "Shop information",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "openingHours": "Opening hours",
+      "certificate": "Certificate",
+      "viewCertificate": "View certificate",
+      "shopCategories": "Shop categories",
+      "viewAllCategories": "View all categories",
+      "aboutTitle": "About us",
+      "reviewsTitle": "Shop reviews",
+      "reviewsDesc": "The shop has {{rating}}/5 from {{count}} customer reviews.",
+      "faq": {
+        "shipping": {
+          "question": "How long does shipping take?",
+          "answer": "Delivery usually takes 2-5 days depending on the destination."
+        },
+        "certificate": {
+          "question": "Are products OCOP certified?",
+          "answer": "The shop's core products include clear certification and origin information."
+        },
+        "return": {
+          "question": "Does the shop support returns?",
+          "answer": "Returns are supported under marketplace policy when products are defective or not as described."
+        }
+      }
+    },
+    "notFound": "Shop not found",
+    "notFoundDesc": "This shop does not exist or is no longer visible",
+    "allProducts": "Shop products"
+  },
+  "whyChoose": {
+    "title": "Why choose OCOP?",
+    "authentic": "100% genuine OCOP products",
+    "quality": "Strict quality inspection",
+    "farmer": "Supporting Vietnamese farmers",
+    "transparent": "Transparent origin tracing"
+  },
+  "seller": {
+    "title": "Become an OCOP seller",
+    "desc": "Register your shop now",
+    "button": "Register now"
+  },
+  "sellerCenter": {
+    "title": "Seller Center",
+    "registerTitle": "Register to sell OCOP products",
+    "registerHeroTitle": "Register to become an OCOP seller",
+    "registerDesc": "Join us to promote and grow Vietnamese specialties to millions of customers.",
+    "dashboard": "Overview",
+    "products": "Products",
+    "registrationSuccess": "Registration submitted",
+    "registrationSuccessDesc": "Registration details were saved in this browser to simulate seller status.",
+    "goDashboard": "Go to Seller Center",
+    "manageProducts": "Manage products",
+    "stepsTitle": "Registration steps",
+    "benefitsTitle": "Benefits of selling with OCOP",
+    "benefits": {
+      "reach": {
+        "icon": "mdi:account-group",
+        "title": "Reach millions of customers",
+        "desc": "Your products will be introduced to a large nationwide customer community."
+      },
+      "tools": {
+        "icon": "mdi:briefcase-outline",
+        "title": "Easy management",
+        "desc": "Simple tools for managing orders, products and revenue effectively."
+      },
+      "support": {
+        "icon": "mdi:hand-heart",
+        "title": "Dedicated support",
+        "desc": "The OCOP team is ready to support you 24/7 throughout your business journey."
+      },
+      "brand": {
+        "icon": "mdi:shield-star-outline",
+        "title": "Build your brand",
+        "desc": "Elevate your OCOP product brand on a trusted marketplace."
+      }
+    },
+    "support": {
+      "title": "Need registration support?",
+      "desc": "The OCOP team is always ready to help.",
+      "phone": "1900 1234 (8:00 - 17:30)",
+      "email": "hotro@ocop.vn"
+    },
+    "trust": {
+      "quality": {
+        "icon": "mdi:shield-check-outline",
+        "title": "Quality products",
+        "desc": "Committed to genuine products that meet OCOP standards."
+      },
+      "delivery": {
+        "icon": "mdi:truck-fast-outline",
+        "title": "Nationwide delivery",
+        "desc": "Fast and safe shipping support to every region."
+      },
+      "payment": {
+        "icon": "mdi:shield-check",
+        "title": "Secure payment",
+        "desc": "Multiple payment methods with strong security."
+      },
+      "buyer": {
+        "icon": "mdi:shield-account-outline",
+        "title": "Buyer protection",
+        "desc": "Transparent return and refund policies."
+      }
+    },
+    "steps": {
+      "shop": {
+        "title": "Shop information",
+        "desc": "Enter the shop name and primary business region."
+      },
+      "owner": {
+        "title": "Representative",
+        "desc": "Provide basic contact information."
+      },
+      "product": {
+        "title": "OCOP products",
+        "desc": "Choose the product group and certificate code if available."
+      },
+      "confirm": {
+        "title": "Confirm",
+        "desc": "Submit the form to save the registration."
+      }
+    }
+  },
+  "sellerForm": {
+    "shopInfo": "Shop information",
+    "productInfo": "Product information",
+    "confirm": "Confirm",
+    "shopName": "Shop name",
+    "ownerName": "Representative",
+    "phone": "Phone number",
+    "email": "Email",
+    "region": "Region",
+    "businessAddress": "Business address",
+    "businessLicense": "Business license / tax code",
+    "socialLink": "Website / Facebook / Zalo",
+    "productCategory": "OCOP product group",
+    "mainProduct": "Main product",
+    "shopDescription": "Shop description",
+    "logo": "Shop logo",
+    "uploadLogo": "Upload logo",
+    "uploadHint": "JPG, PNG up to 2MB",
+    "optional": "optional",
+    "certificateCode": "OCOP certificate code",
+    "submit": "Submit registration",
+    "confirmText": "I confirm the provided information is accurate and agree to OCOP's",
+    "and": "and",
+    "ofOcop": "",
+    "required": "Please enter this information",
+    "acceptTermsRequired": "Please agree to the terms before submitting",
+    "invalidEmail": "Invalid email",
+    "invalidPhone": "Invalid phone number",
+    "placeholders": {
+      "shopName": "Enter your shop name",
+      "ownerName": "Representative full name",
+      "phone": "Enter phone number",
+      "email": "Enter email",
+      "region": "Choose a region",
+      "businessAddress": "Street, ward, district, province/city",
+      "businessLicense": "Enter business license or tax code",
+      "socialLink": "Enter website or social media link",
+      "productCategory": "Choose product group",
+      "mainProduct": "Enter main product name",
+      "shopDescription": "Briefly introduce your shop, products and quality commitment..."
+    }
+  },
+  "sellerDashboard": {
+    "demoShop": "Demo OCOP shop",
+    "demoDesc": "The seller dashboard is available publicly; register as a seller to save shop information.",
+    "registeredDesc": "Shop information has been saved in this browser.",
+    "recentOrders": "Recent orders",
+    "productSummary": "Product status summary"
+  },
+  "sellerMetric": {
+    "revenue": "Estimated revenue",
+    "orders": "Total orders",
+    "activeProducts": "Active products",
+    "pendingProducts": "Pending products"
+  },
+  "sellerProduct": {
+    "add": "Add product",
+    "edit": "Edit product",
+    "delete": "Delete",
+    "save": "Save product",
+    "product": "Product",
+    "name": "Product name",
+    "price": "Price",
+    "image": "Product image",
+    "status": "Status",
+    "actions": "Actions",
+    "active": "Active",
+    "outOfStock": "Out of stock",
+    "pending": "Pending",
+    "stock": "Stock",
+    "updatedAt": "Updated",
+    "count": "{{count}} shop products",
+    "invalidNumber": "Value must be valid"
+  },
+  "sidebar": {
+    "menuTitle": "Menu",
+    "categoryTitle": "Product categories",
+    "viewAll": "View all categories"
+  },
+  "bottomNav": {
+    "home": "Home",
+    "categories": "Categories",
+    "cart": "Cart",
+    "offers": "Offers",
+    "orders": "Orders",
+    "account": "Account"
+  },
+  "chat": {
+    "support": "Chat support"
+  },
+  "footer": {
+    "about": {
+      "p1": "OCOP is a national program honoring and developing distinctive, high-quality Vietnamese products.",
+      "p2": "We connect regional specialties with consumers across the country."
+    },
+    "benefits": {
+      "quality": {
+        "title": "Quality products",
+        "desc": "Committed to genuine products that meet OCOP standards"
+      },
+      "origin": {
+        "title": "Clear origin",
+        "desc": "Transparent information and product traceability"
+      },
+      "delivery": {
+        "title": "Nationwide delivery",
+        "desc": "Fast delivery with careful packaging"
+      },
+      "support": {
+        "title": "Dedicated support",
+        "desc": "24/7 support team always ready to help"
+      }
+    },
+    "newsletter": {
+      "title": "Subscribe to updates",
+      "desc": "Get the latest OCOP offers and news",
+      "placeholder": "Enter your email",
+      "submit": "Subscribe"
+    },
+    "columns": {
+      "about": {
+        "title": "About OCOP",
+        "items": {
+          "intro": "Introduction to OCOP",
+          "meaning": "Meaning of the OCOP program",
+          "criteria": "OCOP evaluation criteria",
+          "news": "News & Events",
+          "partner": "Partnerships",
+          "contact": "Contact"
+        }
+      },
+      "policy": {
+        "title": "Policies",
+        "items": {
+          "privacy": "Privacy policy",
+          "return": "Return policy",
+          "shipping": "Shipping policy",
+          "terms": "Terms of use",
+          "buying": "Shopping guide",
+          "faq": "FAQ"
+        }
+      },
+      "category": {
+        "title": "Product categories",
+        "items": {
+          "regional": "Regional specialties",
+          "food": "Agriculture – Food",
+          "drink": "Beverages",
+          "herbal": "Herbal – Health",
+          "handicraft": "Handicrafts",
+          "ocop3": "OCOP 3-star products",
+          "ocop4": "OCOP 4-star products",
+          "ocop5": "OCOP 5-star products"
+        }
+      }
+    },
+    "contact": {
+      "title": "Contact information",
+      "address": "6th Floor, OCOP Vietnam Building, 489 Hoang Quoc Viet, Cau Giay, Hanoi",
+      "phone": "1900 1234",
+      "email": "hotro@ocop.vn",
+      "hours": "8:00 - 17:30 (Mon - Sat)"
+    },
+    "social": {
+      "title": "Connect with us"
+    },
+    "certified": "Certified website",
+    "slogan": "Together with OCOP, elevating Vietnamese value",
+    "copyright": "© 2024 OCOP Vietnam. All rights reserved.",
+    "payment": "Payment methods"
+  },
+  "auth": {
+    "login": "Sign in",
+    "register": "Register",
+    "logout": "Sign out",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "loginTitle": "Welcome back!",
+    "loginSubtitle": "Sign in to continue shopping on OCOP",
+    "registerTitle": "Create a new account",
+    "registerSubtitle": "Join OCOP for a better shopping experience",
+    "rememberMe": "Remember me",
+    "or": "Or",
+    "loginWithGoogle": "Sign in with Google",
+    "loginWithFacebook": "Sign in with Facebook",
+    "registerWithGoogle": "Register with Google",
+    "registerWithFacebook": "Register with Facebook",
+    "agreeToTerms": "I agree to the",
+    "terms": "Terms of use",
+    "privacy": "Privacy policy",
+    "securityTitle": "Information security",
+    "securityDesc": "Committed to absolute privacy",
+    "qualityTitle": "Quality products",
+    "qualityDesc": "100% genuine OCOP",
+    "shippingTitle": "Nationwide delivery",
+    "shippingDesc": "Fast and convenient",
+    "emailRequired": "Please enter your email",
+    "emailInvalid": "Invalid email",
+    "passwordRequired": "Please enter your password",
+    "passwordMinLength": "Password must be at least 8 characters",
+    "passwordMismatch": "Password confirmation does not match",
+    "confirmPasswordRequired": "Please confirm your password",
+    "fullNameRequired": "Please enter your full name",
+    "phoneRequired": "Please enter your phone number",
+    "phoneInvalid": "Invalid phone number",
+    "invalidCredentials": "Email or password is incorrect",
+    "emailExists": "This email is already registered",
+    "noAccount": "No account yet?",
+    "haveAccount": "Already have an account?",
+    "registerNow": "Register now",
+    "forgotPassword": "Forgot password?",
+    "myAccount": "My account",
+    "loggingIn": "Signing in...",
+    "registering": "Registering..."
+  },
+  "common": {
+    "addToCart": "Add to cart",
+    "buyNow": "Buy now",
+    "viewAll": "View all",
+    "loading": "Loading...",
+    "notFound": "Not found",
+    "retry": "Retry",
+    "backHome": "Back home",
+    "viewDetail": "View details",
+    "quantity": "Quantity",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shippingFee": "Shipping fee",
+    "discount": "Discount",
+    "free": "Free",
+    "decreaseQuantity": "Decrease quantity",
+    "increaseQuantity": "Increase quantity"
+  },
+  "ocop": {
+    "navigation": { "regions": "Explore regions", "map": "OCOP map" },
+    "certificate": {
+      "title": "OCOP certificate",
+      "verified": "Verified certificate information",
+      "code": "Certificate code",
+      "issuedBy": "Issued by",
+      "issuedDate": "Issued date",
+      "imageAlt": "OCOP certificate document"
+    },
+    "traceability": {
+      "title": "Product traceability",
+      "subtitle": "Transparent information from source to finished product",
+      "batchCode": "Batch code",
+      "producer": "Producer",
+      "productionDate": "Production date",
+      "materialRegion": "Material region",
+      "scan": "Scan to trace origin"
+    },
+    "regions": {
+      "eyebrow": "The best of Vietnam",
+      "title": "Explore OCOP by region",
+      "subtitle": "Travel across Vietnam through signature products, craft villages and local material regions.",
+      "openMap": "Open OCOP map",
+      "allRegions": "Vietnam's OCOP regions",
+      "allRegionsDesc": "Choose a region to explore its products and featured shops",
+      "provinceCount": "{{count}} provinces"
+    },
+    "regionDetail": {
+      "notFound": "Region not found",
+      "backToRegions": "Back to regions",
+      "viewOnMap": "View on map",
+      "viewAllProducts": "View all products",
+      "specialties": "Signature specialties",
+      "featuredProducts": "Featured products",
+      "featuredShops": "Featured shops",
+      "noProducts": "No mock products are available for this region yet.",
+      "noShops": "No mock shops are available for this region yet."
+    },
+    "map": {
+      "eyebrow": "Visual OCOP data",
+      "title": "Vietnam OCOP product map",
+      "subtitle": "Explore OCOP products and producers, filtered by region or category.",
+      "filterRegion": "Region",
+      "filterCategory": "Category",
+      "allRegions": "All regions",
+      "allCategories": "All categories",
+      "resultCount": "Showing {{count}} locations",
+      "exploreRegions": "Explore by region",
+      "viewProduct": "View product",
+      "empty": "No locations match the selected filters"
+    }
+  },
+  "marketing": {
+    "promotion": {
+      "bundle": "Bundle price",
+      "flashSale": "Flash sale"
+    },
+    "flashSale": {
+      "title": "Flash Sale",
+      "subtitle": "Daily deals with limited quantities",
+      "countdown": "Flash Sale time remaining",
+      "soldPercent": "{{percent}}% sold"
+    },
+    "voucher": {
+      "title": "Vouchers for you",
+      "subtitle": "Save a code and use it at checkout",
+      "freeShipping": "Free shipping",
+      "percentOff": "{{value}}% off",
+      "fixedOff": "{{value}} off",
+      "minSpend": "Minimum order {{amount}}",
+      "select": "Select",
+      "selected": "Selected",
+      "notEligible": "This voucher requires a minimum order of {{amount}}"
+    },
+    "bundle": {
+      "title": "Save with a bundle",
+      "subtitle": "Products that go well together",
+      "save": "Save {{amount}}",
+      "add": "Add bundle",
+      "added": "Bundle added"
+    },
+    "recommendation": {
+      "title": "Recommended for you",
+      "forYou": "You may also like",
+      "similar": "Similar products",
+      "sameRegion": "From the same region",
+      "sameShop": "From the same shop",
+      "empty": "No matching products in this group yet."
+    }
+  },
+  "productDetail": {
+    "soldCount": "{{count}} sold",
+    "soldCountShort": "Sold",
+    "reviewCount": "{{count}} reviews",
+    "inStock": "In stock",
+    "inStockWithCount": "{{count}} products in stock",
+    "outOfStock": "Out of stock",
+    "ocopStar": "OCOP {{count}} stars",
+    "shopOcopStar": "OCOP {{count}} stars",
+    "shopInfo": "Shop information",
+    "shopProductCount": "{{count}} products",
+    "responseRate": "Response",
+    "joinedDate": "Joined",
+    "description": "Product description",
+    "detailInfo": "Details",
+    "usageGuide": "Usage guide",
+    "reviewTab": "Reviews ({{count}})",
+    "faqTab": "Q&A ({{count}})",
+    "reviews": "Product reviews",
+    "verifiedPurchase": "Verified purchase",
+    "reviewImageAlt": "Review image",
+    "relatedProducts": "Related products",
+    "shipping": "Shipping",
+    "returnPolicy": "Returns",
+    "returnDays": "Returns within {{count}} days",
+    "quantityExceedsStock": "Quantity exceeds stock",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "selectImage": "Select image {{index}}",
+    "vatIncluded": "VAT included",
+    "activeViewers": "{{count}} people viewing",
+    "recentOrders": "{{count}} orders in 24h",
+    "weight": "Weight",
+    "fastDelivery": "Fast delivery in 2h",
+    "authenticCommitment": "100% {{region}} specialty",
+    "freeShipThreshold": "Free shipping from {{amount}}",
+    "origin": "Origin",
+    "productType": "Product type",
+    "ingredients": "Ingredients",
+    "ingredientsValue": "100% selected ingredients",
+    "expiry": "Shelf life",
+    "expiryValue": "24 months",
+    "storage": "Storage",
+    "storageValue": "Keep in a cool, dry place",
+    "descriptionTitle": "{{name}} - Natural specialty",
+    "benefitProtein": "Rich in natural nutrients and suitable for daily use",
+    "benefitHealth": "Supports wellness and body nourishment",
+    "benefitAudience": "Suitable as a gift for family, relatives and partners",
+    "benefitOcop": "OCOP-certified product with clear origin",
+    "usageGuideDesc": "Use {{name}} in suitable portions, seal after opening and avoid direct sunlight to preserve flavor.",
+    "faqTitle": "Frequently asked questions",
+    "faqDesc": "The shop supports questions about origin, OCOP certification, shipping and product storage.",
+    "customerImages": "Customer images",
+    "reviewFilterAll": "All ({{count}})",
+    "reviewFilterStar": "{{star}} stars ({{count}})",
+    "reviewFilterPhoto": "With images ({{count}})",
+    "sortNewest": "Newest",
+    "viewAllReviews": "View all {{count}} reviews",
+    "notFoundDesc": "This product does not exist or is no longer visible"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "emptyDesc": "You do not have any products in your cart yet",
+    "selectAll": "Select all",
+    "selectItem": "Select product",
+    "itemCount": "{{count}} products in cart",
+    "selected": "{{count}} products selected",
+    "remove": "Remove",
+    "removeSelected": "Remove selected ({{count}})",
+    "proceedToCheckout": "Proceed to checkout",
+    "continueShopping": "Continue shopping"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Review your delivery details and order before placing it",
+    "recipientInfo": "Recipient information",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "address": "Address",
+    "shippingAddress": "Shipping address",
+    "province": "Province / City",
+    "district": "District",
+    "ward": "Ward",
+    "addressDetail": "Address detail",
+    "shippingMethod": "Shipping method",
+    "paymentMethod": "Payment method",
+    "paymentMethodHint": "Choose the payment method that works best for you",
+    "popular": "Popular",
+    "saveInfo": "Save this information for next time",
+    "voucher": "Voucher code",
+    "voucherPlaceholder": "Enter voucher code",
+    "applyVoucher": "Apply",
+    "invalidVoucher": "Invalid voucher code",
+    "orderSummary": "Order summary",
+    "placeOrder": "Place order",
+    "placingOrder": "Placing order...",
+    "backToCart": "Back to cart",
+    "payment": {
+      "cod": "Cash on delivery",
+      "bank_transfer": "Bank transfer",
+      "wallet": "E-wallet"
+    },
+    "placeholders": {
+      "fullName": "Enter full name",
+      "phone": "Enter phone number",
+      "province": "Choose province / city",
+      "district": "Choose district",
+      "ward": "Choose ward",
+      "addressDetail": "House number, street, building, village..."
+    },
+    "trust": {
+      "secure": "Secure payment",
+      "privacy": "Information protected",
+      "support": "24/7 support",
+      "hotline": "Hotline: 1900 1234",
+      "return": "Easy returns",
+      "returnDesc": "Within 7 days"
+    },
+    "validation": {
+      "fullNameRequired": "Please enter your full name",
+      "phoneRequired": "Please enter your phone number",
+      "phoneInvalid": "Invalid phone number",
+      "addressRequired": "Please enter your address"
+    }
+  },
+  "orderSuccess": {
+    "title": "Order placed successfully!",
+    "subtitle": "Thank you for shopping at OCOP Vietnam",
+    "orderId": "Order ID",
+    "estimatedDelivery": "Estimated delivery",
+    "viewOrders": "View orders",
+    "continueShopping": "Continue shopping",
+    "invalidDesc": "Order information was not found in the current session"
+  },
+  "orders": {
+    "title": "My orders",
+    "subtitle": "Track orders created in the current session",
+    "empty": "No orders yet",
+    "emptyDesc": "You have not placed any orders yet",
+    "emptyInTab": "No orders",
+    "emptyInTabDesc": "There are no orders in this status",
+    "tabs": {
+      "all": "All",
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "preparing": "Preparing",
+      "shipping": "Shipping",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "preparing": "Preparing",
+      "shipping": "Shipping",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "viewDetail": "View detail",
+    "orderedAt": "Ordered at",
+    "remainingProducts": "and {{count}} other products"
+  },
+  "profile": {
+    "title": "My account",
+    "personalInfo": "Personal information",
+    "addresses": "Shipping addresses",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "joinedDate": "Member since",
+    "emailReadOnly": "Contact support to change your email",
+    "defaultAddress": "Default",
+    "addAddress": "Add address",
+    "setDefault": "Set default",
+    "noAddresses": "No addresses yet"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "empty": "Your wishlist is empty",
+    "emptyDesc": "Save favorite products to buy later",
+    "count": "{{count}} products"
+  },
+  "review": {
+    "writeReview": "Write a review",
+    "yourRating": "Your rating",
+    "yourComment": "Comment",
+    "commentPlaceholder": "Share your experience with this product...",
+    "addImages": "Add images (optional)",
+    "submit": "Submit review",
+    "ratingRequired": "Please choose a rating",
+    "commentMinLength": "Comment must be at least 10 characters",
+    "submitSuccess": "Thank you for your review!",
+    "loginToReview": "to write a review",
+    "starLabel": "{{count}} stars"
+  }
+}

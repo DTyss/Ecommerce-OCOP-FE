@@ -1,0 +1,163 @@
+{
+    "system": {
+        "UNKNOWN_ERROR": "Unknown system error",
+        "VALIDATION_ERROR": "Validation failed",
+        "QUERY_FAILED_ERROR": "Database query failed"
+    },
+
+    "auth": {
+        "AUTH_002": "Invalid credentials",
+        "AUTH_003": "User already exists",
+        "AUTH_004": "Account locked due to too many failed login attempts",
+        "AUTH_005": "Token has expired",
+        "AUTH_006": "Invalid token",
+        "AUTH_007": "No token provided",
+        "AUTH_008": "Authentication required",
+        "AUTH_009": "Access denied",
+        "AUTH_010": "Session has been revoked",
+        "AUTH_011": "OTP is invalid or has expired",
+        "AUTH_012": "Please wait before requesting a new OTP",
+        "AUTH_013": "User account is locked",
+        "AUTH_014": "Invalid OTP",
+        "AUTH_015": "Invalid phone number",
+        "AUTH_016": "Second password token required",
+        "AUTH_017": "Invalid second password token",
+        "AUTH_018": "Invalid second password token type",
+        "AUTH_019": "Second password token mismatch",
+        "AUTH_020": "Second password token has expired",
+        "AUTH_021": "Shipper is already online",
+        "AUTH_022": "Web admin login denied",
+        "AUTH_023": "Shipper locked due to package rejections",
+        "AUTH_024": "API key not found",
+        "AUTH_025": "Invalid API key",
+        "AUTH_026": "Session not found",
+        "AUTH_027": "Account has been banned",
+        "AUTH_028": "Account is pending approval",
+        "AUTH_029": "Account is inactive",
+        "AUTH_030": "Account has been deleted",
+        "AUTH_031": "Reset password token has expired"
+    },
+
+    "user": {
+        "USER_001": "User not found",
+        "USER_002": "User already exists",
+        "USER_003": "Invalid phone number format",
+        "USER_004": "Invalid email format",
+        "USER_005": "Email not found",
+        "USER_006": "Password does not meet requirements",
+        "USER_007": "Current password is incorrect",
+        "USER_008": "User sessions not found",
+        "USER_009": "Email already exists",
+        "USER_010": "Phone number already exists",
+        "USER_011": "User ID is required",
+        "USER_012": "Second password already exists",
+        "USER_013": "Second password is incorrect",
+        "USER_014": "Second password not set",
+        "USER_015": "Phone does not belong to user",
+        "USER_016": "Address required for shipper",
+        "USER_017": "Province and ward must be provided together",
+        "USER_018": "Availability owner type mismatch",
+        "USER_019": "Email verification send failed",
+        "USER_020": "You do not have permission to perform this action"
+    },
+
+    "userRole": {
+        "USER_ROLE_001": "Role not found",
+        "USER_ROLE_002": "Role already exists",
+        "USER_ROLE_003": "Cannot delete default role",
+        "USER_ROLE_004": "Role is in use"
+    },
+
+    "shop": {
+        "SHOP_001": "Shop not found",
+        "SHOP_002": "Shop already exists",
+        "SHOP_003": "No permission to access shop",
+        "SHOP_004": "Shop has been disabled"
+    },
+
+    "order": {
+        "ORDER_001": "Order not found",
+        "ORDER_002": "Cannot update completed order",
+        "ORDER_003": "Invalid order status",
+        "ORDER_004": "Cannot cancel order"
+    },
+
+    "deptPerm": {
+        "DEPT_PERM_001": "User not authenticated",
+        "DEPT_PERM_002": "Department does not have access to this module",
+        "DEPT_PERM_003": "User is not a member of this department",
+        "DEPT_PERM_004": "User does not have permission to perform this action on the module",
+        "DEPT_PERM_005": "User is not a member of any department",
+        "DEPT_PERM_006": "User has no permissions in any department"
+    },
+
+    "shipper": {
+        "SHIPPER_001": "Shipper not found",
+        "SHIPPER_002": "User is not a shipper",
+        "SHIPPER_003": "Coordinates update failed",
+        "SHIPPER_004": "Shipper already exists",
+        "SHIPPER_005": "Not authorized to perform this action",
+        "SHIPPER_006": "Refresh token header required",
+        "SHIPPER_007": "Shipper email already exists",
+        "SHIPPER_008": "Shipper phone number already exists",
+        "SHIPPER_009": "Shipper phone number not found",
+        "SHIPPER_010": "Delivery history not found",
+        "SHIPPER_011": "Shipper documents not completed",
+        "SHIPPER_012": "Invalid shipper status",
+        "SHIPPER_013": "Missing national ID",
+        "SHIPPER_014": "Missing driving license",
+        "SHIPPER_015": "Missing relative information",
+        "SHIPPER_016": "Missing payment card",
+        "SHIPPER_017": "Failed orders not found",
+        "SHIPPER_018": "Failed to remove failed orders",
+        "SHIPPER_019": "Shipper is too far from shop",
+        "SHIPPER_020": "Shipper is too far from delivery point",
+        "SHIPPER_021": "Shipper is not assigned to package",
+        "SHIPPER_022": "Shipper is not at hub"
+    },
+
+    "pendingDispatch": {
+        "PENDING_DISPATCH_001": "Pending dispatch request not found",
+        "PENDING_DISPATCH_002": "Invalid status for this action",
+        "PENDING_DISPATCH_003": "Cannot cancel request",
+        "PENDING_DISPATCH_004": "Package does not belong to this request",
+        "PENDING_DISPATCH_005": "Shipper not available (busy or locked)",
+        "PENDING_DISPATCH_006": "Shop already has a PACKAGED request, must cancel first",
+        "PENDING_DISPATCH_007": "Assignment failed",
+        "PENDING_DISPATCH_008": "Outside delivery hours (6:00 - 22:00)",
+        "PENDING_DISPATCH_009": "Insufficient time to deliver before deadline",
+        "PENDING_DISPATCH_010": "Shipper is locked by another request",
+        "PENDING_DISPATCH_011": "Shop already has an active pending request"
+    },
+    "shopVolume": {
+        "SVD_001": "Discount tier not found",
+        "SVD_002": "Discount tier already exists for this threshold range",
+        "SVD_003": "Invalid discount tier configuration",
+        "SVD_004": "Discount tier threshold overlaps with existing tier",
+        "SVD_011": "Monthly usage record not found",
+        "SVD_012": "Usage calculation failed",
+        "SVD_013": "Invalid usage period",
+        "SVD_021": "Discount has already been applied for this period",
+        "SVD_022": "Shop is not eligible for volume discount",
+        "SVD_023": "Discount calculation failed",
+        "SVD_024": "Failed to apply discount",
+        "SVD_031": "Shop is not eligible for volume discount program",
+        "SVD_032": "Shop volume discount configuration not found"
+    },
+
+    "manualDispatch": {
+        "MANUAL_DISPATCH_001": "Manual dispatch request not found",
+        "MANUAL_DISPATCH_002": "Invalid status for this action",
+        "MANUAL_DISPATCH_003": "Cannot cancel request",
+        "MANUAL_DISPATCH_004": "Package does not belong to this request",
+        "MANUAL_DISPATCH_005": "Shipper not available (busy or locked)",
+        "MANUAL_DISPATCH_006": "Shop already has a PACKAGED request, must cancel first",
+        "MANUAL_DISPATCH_007": "Assignment failed",
+        "MANUAL_DISPATCH_008": "Outside delivery hours (6:00 - 22:00)",
+        "MANUAL_DISPATCH_009": "Insufficient time to deliver before deadline",
+        "MANUAL_DISPATCH_010": "Shipper is locked by another request",
+        "MANUAL_DISPATCH_011": "Shop already has an active dispatch request",
+        "MANUAL_DISPATCH_012": "No shipper is online and available for this shop",
+        "MANUAL_DISPATCH_013": "Cannot create packages. VRP failed to assign any orders to shipper"
+    }
+}

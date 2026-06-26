@@ -1,0 +1,60 @@
+{
+    "common": {
+        "loading": "Đang tải...",
+        "error": "Có lỗi xảy ra",
+        "success": "Thành công",
+        "cancel": "Hủy",
+        "confirm": "Xác nhận",
+        "save": "Lưu",
+        "delete": "Xóa",
+        "edit": "Sửa",
+        "create": "Tạo mới",
+        "search": "Tìm kiếm",
+        "filter": "Lọc",
+        "clear": "Xóa bộ lọc",
+        "back": "Quay lại",
+        "next": "Tiếp theo",
+        "previous": "Trước đó",
+        "submit": "Gửi",
+        "reset": "Đặt lại",
+        "yes": "Có",
+        "no": "Không",
+        "all": "Tất cả",
+        "none": "Không có",
+        "actions": "Hành động",
+        "status": "Trạng thái",
+        "date": "Ngày",
+        "time": "Thời gian",
+        "details": "Chi tiết",
+        "view": "Xem",
+        "close": "Đóng",
+        "export": "Xuất",
+        "import": "Nhập",
+        "download": "Tải xuống",
+        "upload": "Tải lên",
+        "pleaseTryAgain": "Vui lòng thử lại"
+    },
+    "validation": {
+        "required": "Trường này là bắt buộc",
+        "email": "Email không hợp lệ",
+        "minLength": "Tối thiểu {{min}} ký tự",
+        "maxLength": "Tối đa {{max}} ký tự",
+        "passwordMismatch": "Mật khẩu không khớp",
+        "invalidFormat": "Định dạng không hợp lệ"
+    },
+    "settings": {
+        "language": "Ngôn ngữ",
+        "theme": "Giao diện",
+        "darkMode": "Chế độ tối",
+        "lightMode": "Chế độ sáng"
+    },
+    "errors": {
+        "notFound": "Không tìm thấy trang",
+        "serverError": "Lỗi máy chủ",
+        "unauthorized": "Không có quyền truy cập",
+        "forbidden": "Truy cập bị từ chối",
+        "networkError": "Lỗi kết nối mạng",
+        "timeout": "Yêu cầu hết thời gian",
+        "unknown": "Có lỗi không xác định xảy ra"
+    }
+}

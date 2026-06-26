@@ -1,0 +1,870 @@
+{
+  "topbar": {
+    "welcome": "Chào mừng bạn đến với OCOP Việt Nam",
+    "support": "Hỗ trợ",
+    "sellerCenter": "Trung tâm người bán",
+    "downloadApp": "Tải ứng dụng",
+    "connect": "Kết nối"
+  },
+  "delivery": {
+    "label": "Giao hàng đến",
+    "fast": "Giao nhanh"
+  },
+  "header": {
+    "categories": "Danh mục",
+    "searchButton": "Tìm kiếm",
+    "login": "Đăng nhập",
+    "account": "Tài khoản",
+    "wishlist": "Yêu thích",
+    "cart": "Giỏ hàng",
+    "openMenu": "Mở menu"
+  },
+  "search": {
+    "placeholder": "Tìm sản phẩm OCOP, đặc sản vùng miền...",
+    "byImage": "Tìm bằng hình ảnh",
+    "title": "Kết quả tìm kiếm",
+    "allProducts": "Tất cả sản phẩm",
+    "resultCount": "{{count}} sản phẩm phù hợp",
+    "keywordResult": "Kết quả cho \"{{keyword}}\"",
+    "empty": "Không tìm thấy sản phẩm",
+    "emptyDesc": "Thử đổi từ khóa hoặc bỏ bớt bộ lọc",
+    "resetFilters": "Xóa bộ lọc",
+    "suggestions": "Gợi ý sản phẩm",
+    "viewAll": "Xem tất cả kết quả cho “{{keyword}}”",
+    "noSuggestions": "Không có sản phẩm phù hợp",
+    "loadingSuggestions": "Đang tìm sản phẩm...",
+    "clear": "Xóa từ khóa tìm kiếm"
+  },
+  "filter": {
+    "title": "Bộ lọc",
+    "open": "Mở bộ lọc",
+    "keyword": "Từ khóa",
+    "category": "Danh mục",
+    "allProducts": "Tất cả sản phẩm",
+    "region": "Vùng miền",
+    "regionPlaceholder": "Chọn vùng miền",
+    "ocopStar": "OCOP sao",
+    "priceRange": "Khoảng giá",
+    "minPrice": "Giá từ",
+    "minPriceShort": "Từ giá",
+    "maxPrice": "Giá đến",
+    "maxPriceShort": "Đến giá",
+    "rating": "Đánh giá",
+    "ratingFrom": "Từ {{count}} sao",
+    "all": "Tất cả",
+    "reset": "Đặt lại",
+    "clearAll": "Xóa tất cả",
+    "apply": "Áp dụng"
+  },
+  "sort": {
+    "label": "Sắp xếp",
+    "popular": "Phổ biến",
+    "priceAsc": "Giá thấp đến cao",
+    "priceDesc": "Giá cao đến thấp",
+    "ratingDesc": "Đánh giá cao",
+    "newest": "Mới nhất"
+  },
+  "category": {
+    "title": "Danh mục",
+    "allTitle": "Tất cả danh mục",
+    "allDesc": "Khám phá hàng ngàn sản phẩm OCOP chất lượng đến từ khắp mọi miền Việt Nam.",
+    "featuredTitle": "Danh mục nổi bật",
+    "trust": {
+      "authentic": "Sản phẩm OCOP chính hãng",
+      "shipping": "Giao hàng toàn quốc",
+      "return": "Đổi trả 7 ngày",
+      "payment": "Thanh toán an toàn"
+    },
+    "promo": {
+      "title": "Ưu đãi dành riêng cho bạn!",
+      "desc": "Giảm 10% cho đơn hàng đầu tiên",
+      "cta": "Nhận mã ngay"
+    },
+    "heroStats": {
+      "products": "Sản phẩm",
+      "sellers": "Nhà bán hàng",
+      "provinces": "Tỉnh thành"
+    },
+    "viewProducts": "Xem sản phẩm",
+    "productCount": "{{count}} sản phẩm",
+    "notFound": "Không tìm thấy danh mục",
+    "notFoundDesc": "Danh mục này không tồn tại hoặc đã ngừng hiển thị"
+  },
+  "pagination": {
+    "navigation": "Phân trang sản phẩm",
+    "previous": "Trang trước",
+    "next": "Trang sau",
+    "page": "Trang {{page}}",
+    "pageSizeLabel": "Hiển thị",
+    "perPage": "/ trang"
+  },
+  "region": {
+    "title": "Đặc sản OCOP từ mọi miền Việt Nam",
+    "subtitle": "Khám phá đặc sản 3 miền Bắc - Trung - Nam",
+    "viewAll": "Xem tất cả",
+    "exploreAll": "Khám phá tất cả vùng miền",
+    "next": "Xem vùng tiếp theo",
+    "pagination": "Chọn vùng miền nổi bật",
+    "page": "Vùng miền {{page}}",
+    "productSuffix": "sản phẩm"
+  },
+  "trust": {
+    "commitment": { "title": "Cam kết OCOP", "desc": "Sản phẩm chính hãng" },
+    "shipping": {
+      "title": "Giao hàng toàn quốc",
+      "desc": "Nhanh chóng, tiện lợi"
+    },
+    "return": { "title": "Đổi trả dễ dàng", "desc": "Trong 7 ngày" },
+    "payment": { "title": "Thanh toán an toàn", "desc": "Bảo mật tuyệt đối" },
+    "support": { "title": "Hỗ trợ 24/7", "desc": "Tận tâm phục vụ" }
+  },
+  "section": {
+    "bestSeller": "Sản phẩm bán chạy",
+    "newProduct": "Sản phẩm mới",
+    "viewAll": "Xem tất cả",
+    "sortBy": "Sắp xếp",
+    "sortPopular": "Phổ biến",
+    "gridView": "Xem dạng lưới",
+    "listView": "Xem dạng danh sách",
+    "emptyProducts": "Chưa có sản phẩm phù hợp"
+  },
+  "product": {
+    "ocopStar": "OCOP {{star}} sao",
+    "addToCart": "Thêm vào giỏ",
+    "sold": "đã bán",
+    "new": "MỚI",
+    "hot": "HOT",
+    "addWishlist": "Thêm vào yêu thích",
+    "removeWishlist": "Bỏ yêu thích"
+  },
+  "productListing": {
+    "title": "Tất cả sản phẩm",
+    "resultCount": "{{count}} sản phẩm"
+  },
+  "promo": {
+    "ocop5": {
+      "title": "OCOP 5 sao",
+      "desc": "Chất lượng quốc tế",
+      "cta": "Khám phá ngay"
+    },
+    "daily": {
+      "title": "Ưu đãi mỗi ngày",
+      "desc": "Giảm đến 50%",
+      "cta": "Mua ngay"
+    },
+    "freeship": {
+      "title": "FREESHIP TOÀN QUỐC",
+      "desc": "Đơn từ 299K",
+      "cta": "Miễn phí vận chuyển"
+    }
+  },
+  "topShop": {
+    "title": "Top shop uy tín",
+    "viewAll": "Xem tất cả",
+    "viewShop": "Xem shop",
+    "sold": "{{count}} đã bán"
+  },
+  "shop": {
+    "title": "Cửa hàng",
+    "allTitle": "Tất cả shop",
+    "allDesc": "Khám phá các shop OCOP uy tín trên toàn quốc",
+    "rating": "Đánh giá",
+    "productsShort": "Sản phẩm",
+    "productCount": "{{count}} sản phẩm",
+    "soldCount": "{{count}} đã bán",
+    "followers": "Người theo dõi",
+    "followerCount": "{{count}} người theo dõi",
+    "responseRate": "Phản hồi",
+    "joinedDate": "Tham gia",
+    "follow": "Theo dõi",
+    "following": "Đang theo dõi",
+    "addFavorite": "Thêm shop vào yêu thích",
+    "pagination": "Phân trang shop",
+    "empty": "Không tìm thấy shop",
+    "emptyDesc": "Thử đổi từ khóa, tỉnh thành hoặc danh mục shop",
+    "stats": {
+      "trustedShops": "Shop uy tín",
+      "products": "Sản phẩm",
+      "positiveResponse": "Phản hồi tích cực",
+      "provinces": "Tỉnh thành"
+    },
+    "filter": {
+      "keyword": "Từ khóa shop",
+      "searchPlaceholder": "Tìm shop theo tên, địa phương...",
+      "region": "Tỉnh / Thành phố",
+      "category": "Danh mục đặc sản",
+      "sort": "Sắp xếp",
+      "reset": "Xóa bộ lọc"
+    },
+    "sort": {
+      "popular": "Sắp xếp: Phổ biến",
+      "products": "Sắp xếp: Nhiều sản phẩm",
+      "rating": "Sắp xếp: Đánh giá cao",
+      "response": "Sắp xếp: Phản hồi tốt"
+    },
+    "badge": {
+      "featured": "Nổi bật",
+      "favorite": "Yêu thích"
+    },
+    "detail": {
+      "trusted": "Shop uy tín",
+      "message": "Nhắn tin",
+      "positiveResponse": "Phản hồi tích cực",
+      "shopRating": "Đánh giá shop",
+      "joinedFrom": "Tham gia từ",
+      "tabs": {
+        "products": "Sản phẩm",
+        "about": "Giới thiệu",
+        "reviews": "Đánh giá",
+        "faq": "Câu hỏi thường gặp"
+      },
+      "featuredProducts": "Sản phẩm nổi bật",
+      "shopInfo": "Thông tin shop",
+      "address": "Địa chỉ",
+      "phone": "Số điện thoại",
+      "email": "Email",
+      "openingHours": "Thời gian hoạt động",
+      "certificate": "Giấy chứng nhận",
+      "viewCertificate": "Xem giấy chứng nhận",
+      "shopCategories": "Danh mục shop",
+      "viewAllCategories": "Xem tất cả danh mục",
+      "aboutTitle": "Về chúng tôi",
+      "reviewsTitle": "Đánh giá shop",
+      "reviewsDesc": "Shop đạt {{rating}}/5 từ {{count}} đánh giá của khách hàng đã mua.",
+      "faq": {
+        "shipping": {
+          "question": "Shop giao hàng trong bao lâu?",
+          "answer": "Thời gian giao hàng thường từ 2-5 ngày tùy khu vực nhận hàng."
+        },
+        "certificate": {
+          "question": "Sản phẩm có chứng nhận OCOP không?",
+          "answer": "Các sản phẩm chủ lực của shop có thông tin chứng nhận và nguồn gốc rõ ràng."
+        },
+        "return": {
+          "question": "Shop có hỗ trợ đổi trả không?",
+          "answer": "Shop hỗ trợ đổi trả theo chính sách marketplace nếu sản phẩm lỗi hoặc sai mô tả."
+        }
+      }
+    },
+    "notFound": "Không tìm thấy shop",
+    "notFoundDesc": "Shop này không tồn tại hoặc đã ngừng hiển thị",
+    "allProducts": "Sản phẩm của shop"
+  },
+  "whyChoose": {
+    "title": "Vì sao chọn OCOP?",
+    "authentic": "100% sản phẩm OCOP chính hãng",
+    "quality": "Kiểm định chất lượng nghiêm ngặt",
+    "farmer": "Hỗ trợ người nông dân Việt",
+    "transparent": "Minh bạch nguồn gốc xuất xứ"
+  },
+  "seller": {
+    "title": "Trở thành nhà bán hàng OCOP",
+    "desc": "Đăng ký mở shop ngay",
+    "button": "Đăng ký ngay"
+  },
+  "sellerCenter": {
+    "title": "Kênh người bán",
+    "registerTitle": "Đăng ký bán hàng OCOP",
+    "registerHeroTitle": "Đăng ký trở thành nhà bán hàng OCOP",
+    "registerDesc": "Tham gia cùng chúng tôi để quảng bá và phát triển đặc sản Việt đến hàng triệu khách hàng.",
+    "dashboard": "Tổng quan",
+    "products": "Sản phẩm",
+    "registrationSuccess": "Đã gửi đăng ký",
+    "registrationSuccessDesc": "Thông tin đăng ký đã được lưu trong trình duyệt để mô phỏng trạng thái người bán.",
+    "goDashboard": "Vào kênh người bán",
+    "manageProducts": "Quản lý sản phẩm",
+    "stepsTitle": "Các bước đăng ký",
+    "benefitsTitle": "Lợi ích khi bán hàng cùng OCOP",
+    "benefits": {
+      "reach": {
+        "icon": "mdi:account-group",
+        "title": "Tiếp cận hàng triệu khách hàng",
+        "desc": "Sản phẩm của bạn sẽ được giới thiệu đến cộng đồng khách hàng lớn trên toàn quốc."
+      },
+      "tools": {
+        "icon": "mdi:briefcase-outline",
+        "title": "Quản lý dễ dàng",
+        "desc": "Công cụ quản lý đơn hàng, sản phẩm và doanh thu hiệu quả, đơn giản."
+      },
+      "support": {
+        "icon": "mdi:hand-heart",
+        "title": "Hỗ trợ tận tâm",
+        "desc": "Đội ngũ OCOP luôn sẵn sàng hỗ trợ bạn 24/7 trong suốt quá trình kinh doanh."
+      },
+      "brand": {
+        "icon": "mdi:shield-star-outline",
+        "title": "Xây dựng thương hiệu",
+        "desc": "Nâng tầm thương hiệu sản phẩm OCOP của bạn trên nền tảng uy tín."
+      }
+    },
+    "support": {
+      "title": "Cần hỗ trợ đăng ký?",
+      "desc": "Đội ngũ OCOP luôn sẵn sàng hỗ trợ bạn.",
+      "phone": "1900 1234 (8:00 - 17:30)",
+      "email": "hotro@ocop.vn"
+    },
+    "trust": {
+      "quality": {
+        "icon": "mdi:shield-check-outline",
+        "title": "Sản phẩm chất lượng",
+        "desc": "Cam kết sản phẩm chính hãng, đạt chuẩn OCOP."
+      },
+      "delivery": {
+        "icon": "mdi:truck-fast-outline",
+        "title": "Giao hàng toàn quốc",
+        "desc": "Hỗ trợ vận chuyển nhanh chóng, an toàn đến mọi miền."
+      },
+      "payment": {
+        "icon": "mdi:shield-check",
+        "title": "Thanh toán an toàn",
+        "desc": "Đa dạng phương thức thanh toán, bảo mật tuyệt đối."
+      },
+      "buyer": {
+        "icon": "mdi:shield-account-outline",
+        "title": "Bảo vệ người mua",
+        "desc": "Chính sách đổi trả và hoàn tiền minh bạch, rõ ràng."
+      }
+    },
+    "steps": {
+      "shop": {
+        "title": "Thông tin shop",
+        "desc": "Nhập tên shop và vùng kinh doanh chính."
+      },
+      "owner": {
+        "title": "Người đại diện",
+        "desc": "Cung cấp thông tin liên hệ cơ bản."
+      },
+      "product": {
+        "title": "Sản phẩm OCOP",
+        "desc": "Chọn nhóm sản phẩm và mã chứng nhận nếu có."
+      },
+      "confirm": {
+        "title": "Xác nhận",
+        "desc": "Gửi form để lưu thông tin đăng ký."
+      }
+    }
+  },
+  "sellerForm": {
+    "shopInfo": "Thông tin shop",
+    "productInfo": "Thông tin sản phẩm",
+    "confirm": "Xác nhận",
+    "shopName": "Tên shop",
+    "ownerName": "Người đại diện",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "region": "Vùng miền",
+    "businessAddress": "Địa chỉ kinh doanh",
+    "businessLicense": "Giấy phép kinh doanh / MST",
+    "socialLink": "Website / Facebook / Zalo",
+    "productCategory": "Nhóm sản phẩm OCOP",
+    "mainProduct": "Sản phẩm chủ lực",
+    "shopDescription": "Mô tả về shop",
+    "logo": "Logo shop",
+    "uploadLogo": "Tải lên logo",
+    "uploadHint": "JPG, PNG tối đa 2MB",
+    "optional": "tùy chọn",
+    "certificateCode": "Mã chứng nhận OCOP",
+    "submit": "Gửi đăng ký",
+    "confirmText": "Tôi cam kết thông tin cung cấp là chính xác và đồng ý với",
+    "and": "và",
+    "ofOcop": "của OCOP.",
+    "required": "Vui lòng nhập thông tin này",
+    "acceptTermsRequired": "Vui lòng đồng ý điều khoản trước khi gửi",
+    "invalidEmail": "Email không hợp lệ",
+    "invalidPhone": "Số điện thoại không hợp lệ",
+    "placeholders": {
+      "shopName": "Nhập tên shop của bạn",
+      "ownerName": "Họ và tên người đại diện",
+      "phone": "Nhập số điện thoại",
+      "email": "Nhập email",
+      "region": "Chọn vùng miền",
+      "businessAddress": "Số nhà, đường, phường/xã, quận/huyện, tỉnh/thành phố",
+      "businessLicense": "Nhập số giấy phép kinh doanh hoặc MST",
+      "socialLink": "Nhập link website hoặc trang mạng xã hội",
+      "productCategory": "Chọn nhóm sản phẩm",
+      "mainProduct": "Nhập tên sản phẩm chủ lực",
+      "shopDescription": "Giới thiệu ngắn gọn về shop, sản phẩm và cam kết chất lượng..."
+    }
+  },
+  "sellerDashboard": {
+    "demoShop": "Shop OCOP demo",
+    "demoDesc": "Dashboard đang mở public, đăng ký seller để lưu thông tin shop.",
+    "registeredDesc": "Thông tin shop đã được lưu trong trình duyệt.",
+    "recentOrders": "Đơn gần đây",
+    "productSummary": "Tổng quan trạng thái sản phẩm"
+  },
+  "sellerMetric": {
+    "revenue": "Doanh thu dự kiến",
+    "orders": "Tổng đơn hàng",
+    "activeProducts": "Sản phẩm đang bán",
+    "pendingProducts": "Sản phẩm chờ duyệt"
+  },
+  "sellerProduct": {
+    "add": "Thêm sản phẩm",
+    "edit": "Sửa sản phẩm",
+    "delete": "Xóa",
+    "save": "Lưu sản phẩm",
+    "product": "Sản phẩm",
+    "name": "Tên sản phẩm",
+    "price": "Giá bán",
+    "image": "Ảnh sản phẩm",
+    "status": "Trạng thái",
+    "actions": "Thao tác",
+    "active": "Đang bán",
+    "outOfStock": "Hết hàng",
+    "pending": "Chờ duyệt",
+    "stock": "Tồn kho",
+    "updatedAt": "Cập nhật",
+    "count": "{{count}} sản phẩm của shop",
+    "invalidNumber": "Giá trị phải hợp lệ"
+  },
+  "sidebar": {
+    "menuTitle": "Menu",
+    "categoryTitle": "Danh mục sản phẩm",
+    "viewAll": "Xem tất cả danh mục"
+  },
+  "bottomNav": {
+    "home": "Trang chủ",
+    "categories": "Danh mục",
+    "cart": "Giỏ hàng",
+    "offers": "Ưu đãi",
+    "orders": "Đơn hàng",
+    "account": "Tài khoản"
+  },
+  "chat": {
+    "support": "Chat hỗ trợ"
+  },
+  "footer": {
+    "about": {
+      "p1": "OCOP là chương trình quốc gia tôn vinh và phát triển những sản phẩm đặc trưng, chất lượng của Việt Nam.",
+      "p2": "Chúng tôi kết nối tinh hoa vùng miền với người tiêu dùng trên khắp cả nước."
+    },
+    "benefits": {
+      "quality": {
+        "title": "Sản phẩm chất lượng",
+        "desc": "Cam kết sản phẩm chính hãng, đạt chuẩn OCOP"
+      },
+      "origin": {
+        "title": "Nguồn gốc rõ ràng",
+        "desc": "Minh bạch thông tin, truy xuất nguồn gốc"
+      },
+      "delivery": {
+        "title": "Giao hàng toàn quốc",
+        "desc": "Giao nhanh, đóng gói kỹ càng"
+      },
+      "support": {
+        "title": "Hỗ trợ tận tâm",
+        "desc": "Đội ngũ hỗ trợ 24/7, luôn sẵn sàng phục vụ"
+      }
+    },
+    "newsletter": {
+      "title": "Đăng ký nhận bản tin",
+      "desc": "Nhận ngay các ưu đãi và thông tin mới nhất từ OCOP",
+      "placeholder": "Nhập email của bạn",
+      "submit": "Đăng ký"
+    },
+    "columns": {
+      "about": {
+        "title": "Về OCOP",
+        "items": {
+          "intro": "Giới thiệu về OCOP",
+          "meaning": "Ý nghĩa chương trình OCOP",
+          "criteria": "Tiêu chí đánh giá OCOP",
+          "news": "Tin tức & Sự kiện",
+          "partner": "Hợp tác & Liên kết",
+          "contact": "Liên hệ"
+        }
+      },
+      "policy": {
+        "title": "Chính sách",
+        "items": {
+          "privacy": "Chính sách bảo mật",
+          "return": "Chính sách đổi trả",
+          "shipping": "Chính sách vận chuyển",
+          "terms": "Điều khoản sử dụng",
+          "buying": "Hướng dẫn mua hàng",
+          "faq": "Câu hỏi thường gặp"
+        }
+      },
+      "category": {
+        "title": "Danh mục sản phẩm",
+        "items": {
+          "regional": "Đặc sản vùng miền",
+          "food": "Nông sản – Thực phẩm",
+          "drink": "Đồ uống",
+          "herbal": "Thảo dược – Sức khỏe",
+          "handicraft": "Thủ công mỹ nghệ",
+          "ocop3": "Sản phẩm OCOP 3 sao",
+          "ocop4": "Sản phẩm OCOP 4 sao",
+          "ocop5": "Sản phẩm OCOP 5 sao"
+        }
+      }
+    },
+    "contact": {
+      "title": "Thông tin liên hệ",
+      "address": "Tầng 6, Tòa nhà OCOP Việt Nam, 489 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",
+      "phone": "1900 1234",
+      "email": "hotro@ocop.vn",
+      "hours": "8:00 - 17:30 (Thứ 2 - Thứ 7)"
+    },
+    "social": {
+      "title": "Kết nối với chúng tôi"
+    },
+    "certified": "Website đạt chứng nhận",
+    "slogan": "Cùng OCOP nâng tầm giá trị Việt",
+    "copyright": "© 2024 OCOP Việt Nam. All rights reserved.",
+    "payment": "Phương thức thanh toán"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "fullName": "Họ và tên",
+    "phone": "Số điện thoại",
+    "loginTitle": "Chào mừng trở lại!",
+    "loginSubtitle": "Đăng nhập để tiếp tục mua sắm trên OCOP",
+    "registerTitle": "Tạo tài khoản mới",
+    "registerSubtitle": "Tham gia OCOP để trải nghiệm mua sắm tuyệt vời",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "or": "Hoặc",
+    "loginWithGoogle": "Đăng nhập với Google",
+    "loginWithFacebook": "Đăng nhập với Facebook",
+    "registerWithGoogle": "Đăng ký với Google",
+    "registerWithFacebook": "Đăng ký với Facebook",
+    "agreeToTerms": "Tôi đồng ý với",
+    "terms": "Điều khoản sử dụng",
+    "privacy": "Chính sách bảo mật",
+    "securityTitle": "Bảo mật thông tin",
+    "securityDesc": "Cam kết bảo mật tuyệt đối",
+    "qualityTitle": "Sản phẩm chất lượng",
+    "qualityDesc": "OCOP chính hãng 100%",
+    "shippingTitle": "Giao hàng toàn quốc",
+    "shippingDesc": "Nhanh chóng, tiện lợi",
+    "emailRequired": "Vui lòng nhập email",
+    "emailInvalid": "Email không hợp lệ",
+    "passwordRequired": "Vui lòng nhập mật khẩu",
+    "passwordMinLength": "Mật khẩu tối thiểu 8 ký tự",
+    "passwordMismatch": "Mật khẩu xác nhận không khớp",
+    "confirmPasswordRequired": "Vui lòng xác nhận mật khẩu",
+    "fullNameRequired": "Vui lòng nhập họ tên",
+    "phoneRequired": "Vui lòng nhập số điện thoại",
+    "phoneInvalid": "Số điện thoại không hợp lệ",
+    "invalidCredentials": "Email hoặc mật khẩu không đúng",
+    "emailExists": "Email này đã được đăng ký",
+    "noAccount": "Chưa có tài khoản?",
+    "haveAccount": "Đã có tài khoản?",
+    "registerNow": "Đăng ký ngay",
+    "forgotPassword": "Quên mật khẩu?",
+    "myAccount": "Tài khoản của tôi",
+    "loggingIn": "Đang đăng nhập...",
+    "registering": "Đang đăng ký..."
+  },
+  "common": {
+    "addToCart": "Thêm vào giỏ",
+    "buyNow": "Mua ngay",
+    "viewAll": "Xem tất cả",
+    "loading": "Đang tải...",
+    "notFound": "Không tìm thấy",
+    "retry": "Thử lại",
+    "backHome": "Về trang chủ",
+    "viewDetail": "Xem chi tiết",
+    "quantity": "Số lượng",
+    "total": "Tổng cộng",
+    "subtotal": "Tạm tính",
+    "shippingFee": "Phí vận chuyển",
+    "discount": "Giảm giá",
+    "free": "Miễn phí",
+    "decreaseQuantity": "Giảm số lượng",
+    "increaseQuantity": "Tăng số lượng"
+  },
+  "ocop": {
+    "navigation": { "regions": "Khám phá vùng miền", "map": "Bản đồ OCOP" },
+    "certificate": {
+      "title": "Chứng nhận OCOP",
+      "verified": "Thông tin chứng nhận đã được xác minh",
+      "code": "Mã chứng nhận",
+      "issuedBy": "Đơn vị cấp",
+      "issuedDate": "Ngày cấp",
+      "imageAlt": "Hình ảnh giấy chứng nhận OCOP"
+    },
+    "traceability": {
+      "title": "Truy xuất nguồn gốc",
+      "subtitle": "Thông tin minh bạch từ vùng nguyên liệu đến sản phẩm",
+      "batchCode": "Mã lô sản xuất",
+      "producer": "Cơ sở sản xuất",
+      "productionDate": "Ngày sản xuất",
+      "materialRegion": "Vùng nguyên liệu",
+      "scan": "Quét mã để truy xuất"
+    },
+    "regions": {
+      "eyebrow": "Tinh hoa sản vật Việt",
+      "title": "Khám phá OCOP theo vùng miền",
+      "subtitle": "Đi dọc Việt Nam qua những sản phẩm đặc trưng, câu chuyện làng nghề và vùng nguyên liệu bản địa.",
+      "openMap": "Mở bản đồ OCOP",
+      "allRegions": "Các vùng OCOP Việt Nam",
+      "allRegionsDesc": "Chọn một vùng để khám phá sản phẩm và shop tiêu biểu",
+      "provinceCount": "{{count}} tỉnh/thành"
+    },
+    "regionDetail": {
+      "notFound": "Không tìm thấy vùng miền",
+      "backToRegions": "Quay lại danh sách vùng",
+      "viewOnMap": "Xem trên bản đồ",
+      "viewAllProducts": "Xem tất cả sản phẩm",
+      "specialties": "Đặc sản tiêu biểu",
+      "featuredProducts": "Sản phẩm nổi bật",
+      "featuredShops": "Shop tiêu biểu",
+      "noProducts": "Chưa có sản phẩm mockup cho vùng này.",
+      "noShops": "Chưa có shop mockup cho vùng này."
+    },
+    "map": {
+      "eyebrow": "Dữ liệu OCOP trực quan",
+      "title": "Bản đồ sản phẩm OCOP Việt Nam",
+      "subtitle": "Khám phá vị trí sản phẩm và cơ sở OCOP, lọc theo vùng miền hoặc danh mục.",
+      "filterRegion": "Vùng miền",
+      "filterCategory": "Danh mục",
+      "allRegions": "Tất cả vùng miền",
+      "allCategories": "Tất cả danh mục",
+      "resultCount": "Đang hiển thị {{count}} địa điểm",
+      "exploreRegions": "Khám phá theo vùng",
+      "viewProduct": "Xem sản phẩm",
+      "empty": "Không có địa điểm phù hợp với bộ lọc"
+    }
+  },
+  "marketing": {
+    "promotion": {
+      "bundle": "Giá combo",
+      "flashSale": "Flash sale"
+    },
+    "flashSale": {
+      "title": "Flash Sale",
+      "subtitle": "Ưu đãi trong ngày, số lượng có hạn",
+      "countdown": "Thời gian Flash Sale còn lại",
+      "soldPercent": "Đã bán {{percent}}%"
+    },
+    "voucher": {
+      "title": "Voucher dành cho bạn",
+      "subtitle": "Lưu mã và sử dụng khi thanh toán",
+      "freeShipping": "Miễn phí vận chuyển",
+      "percentOff": "Giảm {{value}}%",
+      "fixedOff": "Giảm {{value}}",
+      "minSpend": "Đơn tối thiểu {{amount}}",
+      "select": "Chọn",
+      "selected": "Đã chọn",
+      "notEligible": "Voucher yêu cầu đơn tối thiểu {{amount}}"
+    },
+    "bundle": {
+      "title": "Mua combo tiết kiệm",
+      "subtitle": "Gợi ý sản phẩm phù hợp để mua cùng",
+      "save": "Tiết kiệm {{amount}}",
+      "add": "Thêm cả combo",
+      "added": "Đã thêm combo"
+    },
+    "recommendation": {
+      "title": "Gợi ý dành cho bạn",
+      "forYou": "Có thể bạn sẽ thích",
+      "similar": "Sản phẩm tương tự",
+      "sameRegion": "Cùng vùng miền",
+      "sameShop": "Cùng shop",
+      "empty": "Chưa có sản phẩm phù hợp trong nhóm này."
+    }
+  },
+  "productDetail": {
+    "soldCount": "{{count}} đã bán",
+    "soldCountShort": "Đã bán",
+    "reviewCount": "{{count}} đánh giá",
+    "inStock": "Còn hàng",
+    "inStockWithCount": "Còn {{count}} sản phẩm",
+    "outOfStock": "Hết hàng",
+    "ocopStar": "OCOP {{count}} sao",
+    "shopOcopStar": "OCOP {{count}} sao",
+    "shopInfo": "Thông tin shop",
+    "shopProductCount": "{{count}} sản phẩm",
+    "responseRate": "Phản hồi",
+    "joinedDate": "Tham gia",
+    "description": "Mô tả sản phẩm",
+    "detailInfo": "Thông tin chi tiết",
+    "usageGuide": "Hướng dẫn sử dụng",
+    "reviewTab": "Đánh giá ({{count}})",
+    "faqTab": "Hỏi đáp ({{count}})",
+    "reviews": "Đánh giá sản phẩm",
+    "verifiedPurchase": "Đã mua hàng",
+    "reviewImageAlt": "Ảnh đánh giá",
+    "relatedProducts": "Sản phẩm liên quan",
+    "shipping": "Vận chuyển",
+    "returnPolicy": "Đổi trả",
+    "returnDays": "Đổi trả trong {{count}} ngày",
+    "quantityExceedsStock": "Số lượng vượt quá tồn kho",
+    "previousImage": "Ảnh trước",
+    "nextImage": "Ảnh sau",
+    "selectImage": "Chọn ảnh {{index}}",
+    "vatIncluded": "Giá đã bao gồm VAT",
+    "activeViewers": "{{count}} người đang xem",
+    "recentOrders": "{{count}} đơn hàng trong 24h",
+    "weight": "Khối lượng",
+    "fastDelivery": "Giao nhanh trong 2h",
+    "authenticCommitment": "100% đặc sản {{region}}",
+    "freeShipThreshold": "Miễn phí đơn từ {{amount}}",
+    "origin": "Xuất xứ",
+    "productType": "Loại sản phẩm",
+    "ingredients": "Thành phần",
+    "ingredientsValue": "100% nguyên liệu chọn lọc",
+    "expiry": "Hạn sử dụng",
+    "expiryValue": "24 tháng",
+    "storage": "Bảo quản",
+    "storageValue": "Nơi khô ráo, thoáng mát",
+    "descriptionTitle": "{{name}} - Tinh hoa từ thiên nhiên",
+    "benefitProtein": "Giàu dưỡng chất tự nhiên và phù hợp dùng hằng ngày",
+    "benefitHealth": "Hỗ trợ chăm sóc sức khỏe, bồi bổ cơ thể",
+    "benefitAudience": "Phù hợp làm quà tặng cho gia đình, người thân và đối tác",
+    "benefitOcop": "Sản phẩm đạt chuẩn OCOP, nguồn gốc rõ ràng",
+    "usageGuideDesc": "Dùng {{name}} theo khẩu phần phù hợp, bảo quản kín sau khi mở và tránh ánh nắng trực tiếp để giữ trọn hương vị.",
+    "faqTitle": "Câu hỏi thường gặp",
+    "faqDesc": "Shop hỗ trợ tư vấn về nguồn gốc, chứng nhận OCOP, vận chuyển và bảo quản sản phẩm.",
+    "customerImages": "Ảnh từ khách hàng",
+    "reviewFilterAll": "Tất cả ({{count}})",
+    "reviewFilterStar": "{{star}} sao ({{count}})",
+    "reviewFilterPhoto": "Có hình ảnh ({{count}})",
+    "sortNewest": "Mới nhất",
+    "viewAllReviews": "Xem tất cả {{count}} đánh giá",
+    "notFoundDesc": "Sản phẩm không tồn tại hoặc đã ngừng hiển thị"
+  },
+  "cart": {
+    "title": "Giỏ hàng",
+    "empty": "Giỏ hàng trống",
+    "emptyDesc": "Bạn chưa có sản phẩm nào trong giỏ",
+    "selectAll": "Chọn tất cả",
+    "selectItem": "Chọn sản phẩm",
+    "itemCount": "{{count}} sản phẩm trong giỏ",
+    "selected": "Đã chọn {{count}} sản phẩm",
+    "remove": "Xóa",
+    "removeSelected": "Xóa đã chọn ({{count}})",
+    "proceedToCheckout": "Tiến hành thanh toán",
+    "continueShopping": "Tiếp tục mua sắm"
+  },
+  "checkout": {
+    "title": "Thanh toán",
+    "subtitle": "Kiểm tra thông tin giao hàng và đơn hàng trước khi đặt",
+    "recipientInfo": "Thông tin người nhận",
+    "fullName": "Họ và tên",
+    "phone": "Số điện thoại",
+    "address": "Địa chỉ",
+    "shippingAddress": "Địa chỉ giao hàng",
+    "province": "Tỉnh / Thành phố",
+    "district": "Quận / Huyện",
+    "ward": "Phường / Xã",
+    "addressDetail": "Địa chỉ chi tiết",
+    "shippingMethod": "Phương thức vận chuyển",
+    "paymentMethod": "Phương thức thanh toán",
+    "paymentMethodHint": "Chọn phương thức thanh toán phù hợp với bạn",
+    "popular": "Phổ biến",
+    "saveInfo": "Lưu thông tin này cho lần sau",
+    "voucher": "Mã giảm giá",
+    "voucherPlaceholder": "Nhập mã voucher",
+    "applyVoucher": "Áp dụng",
+    "invalidVoucher": "Mã voucher không hợp lệ",
+    "orderSummary": "Đơn hàng",
+    "placeOrder": "Đặt hàng",
+    "placingOrder": "Đang đặt hàng...",
+    "backToCart": "Quay lại giỏ hàng",
+    "payment": {
+      "cod": "Thanh toán khi nhận hàng",
+      "bank_transfer": "Chuyển khoản ngân hàng",
+      "wallet": "Ví điện tử"
+    },
+    "placeholders": {
+      "fullName": "Nhập họ và tên",
+      "phone": "Nhập số điện thoại",
+      "province": "Chọn tỉnh / thành phố",
+      "district": "Chọn quận / huyện",
+      "ward": "Chọn phường / xã",
+      "addressDetail": "Số nhà, tên đường, tòa nhà, thôn, xóm..."
+    },
+    "trust": {
+      "secure": "Thanh toán an toàn",
+      "privacy": "Bảo mật thông tin",
+      "support": "Hỗ trợ 24/7",
+      "hotline": "Hotline: 1900 1234",
+      "return": "Đổi trả dễ dàng",
+      "returnDesc": "Trong 7 ngày"
+    },
+    "validation": {
+      "fullNameRequired": "Vui lòng nhập họ tên",
+      "phoneRequired": "Vui lòng nhập số điện thoại",
+      "phoneInvalid": "Số điện thoại không hợp lệ",
+      "addressRequired": "Vui lòng nhập địa chỉ"
+    }
+  },
+  "orderSuccess": {
+    "title": "Đặt hàng thành công!",
+    "subtitle": "Cảm ơn bạn đã mua sắm tại OCOP Việt",
+    "orderId": "Mã đơn hàng",
+    "estimatedDelivery": "Dự kiến giao hàng",
+    "viewOrders": "Xem đơn hàng",
+    "continueShopping": "Tiếp tục mua sắm",
+    "invalidDesc": "Không tìm thấy thông tin đơn hàng trong phiên hiện tại"
+  },
+  "orders": {
+    "title": "Đơn hàng của tôi",
+    "subtitle": "Theo dõi các đơn hàng đã tạo trong phiên hiện tại",
+    "empty": "Chưa có đơn hàng",
+    "emptyDesc": "Bạn chưa có đơn hàng nào",
+    "emptyInTab": "Không có đơn hàng",
+    "emptyInTabDesc": "Không có đơn hàng trong trạng thái này",
+    "tabs": {
+      "all": "Tất cả",
+      "pending": "Chờ xác nhận",
+      "confirmed": "Đã xác nhận",
+      "preparing": "Đang chuẩn bị",
+      "shipping": "Đang giao",
+      "completed": "Hoàn thành",
+      "cancelled": "Đã hủy"
+    },
+    "status": {
+      "pending": "Chờ xác nhận",
+      "confirmed": "Đã xác nhận",
+      "preparing": "Đang chuẩn bị",
+      "shipping": "Đang giao hàng",
+      "completed": "Hoàn thành",
+      "cancelled": "Đã hủy"
+    },
+    "viewDetail": "Xem chi tiết",
+    "orderedAt": "Đặt lúc",
+    "remainingProducts": "và {{count}} sản phẩm khác"
+  },
+  "profile": {
+    "title": "Tài khoản của tôi",
+    "personalInfo": "Thông tin cá nhân",
+    "addresses": "Địa chỉ giao hàng",
+    "edit": "Chỉnh sửa",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "joinedDate": "Thành viên từ",
+    "emailReadOnly": "Liên hệ hỗ trợ để thay đổi email",
+    "defaultAddress": "Mặc định",
+    "addAddress": "Thêm địa chỉ",
+    "setDefault": "Đặt mặc định",
+    "noAddresses": "Chưa có địa chỉ nào"
+  },
+  "wishlist": {
+    "title": "Danh sách yêu thích",
+    "empty": "Danh sách yêu thích trống",
+    "emptyDesc": "Thêm sản phẩm yêu thích để mua sau",
+    "count": "{{count}} sản phẩm"
+  },
+  "review": {
+    "writeReview": "Viết đánh giá",
+    "yourRating": "Đánh giá của bạn",
+    "yourComment": "Nhận xét",
+    "commentPlaceholder": "Chia sẻ trải nghiệm của bạn về sản phẩm...",
+    "addImages": "Thêm ảnh (tùy chọn)",
+    "submit": "Gửi đánh giá",
+    "ratingRequired": "Vui lòng chọn số sao",
+    "commentMinLength": "Nhận xét phải có ít nhất 10 ký tự",
+    "submitSuccess": "Cảm ơn bạn đã đánh giá!",
+    "loginToReview": "để viết đánh giá",
+    "starLabel": "{{count}} sao"
+  }
+}
